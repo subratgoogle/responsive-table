@@ -3,4 +3,4 @@
 
 <hr>
 
-### Click Here to see this page [Click Here]( https://subratgoogle.github.io/responsive-table/.)
+### Click Here to see this page :: [Click Here]( https://subratgoogle.github.io/responsive-table/.)
